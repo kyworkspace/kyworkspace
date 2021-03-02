@@ -110,8 +110,40 @@ gis_debris : {
 }
 ```
 #### Images
+<div>
 <img src = 'https://user-images.githubusercontent.com/45280952/107639568-62a7a880-6cb4-11eb-9e8a-280a7b61c7f8.png' width = "250px" align="left">
 <img src = 'https://user-images.githubusercontent.com/45280952/107639700-94b90a80-6cb4-11eb-9c1b-014819ff858c.png' width = "250px" align="left">
 <img src = 'https://user-images.githubusercontent.com/45280952/107639817-c0d48b80-6cb4-11eb-83e6-23ddfd1dbdda.png' width = "250px" align="left">
+</div>
 
 ### 유튜브 클론
+Git : https://github.com/kyworkspace/youtube-clone-react
+```javascript
+gis_debris : {
+    개발환경 : {
+        Language : [
+            `Javascript`,
+            `ReactJs`,
+            `React-redux`,
+            ...
+        ],
+        DB : [ `MongoDB` ],
+        server : [`Nodejs`]
+        IDE : [ `VSCode` ]
+    }
+    기간 : `2021-01-30 ~ 2021-02-08`
+    참여인원 : `1`,
+    업무비율 : `100%`,
+    Description : {
+        1st : `로그인과 회원가입이 기능이 있는 화면을 BoilerPlate로 하여 만듬`
+        2nd : `Store를 이용하여 사용자 정보 관리, 댓글 및 컨텐츠 수정여부 확인(권한 관리)`
+        3nd : `좋아요, 싫어요 기능`
+        3nd : `구독 기능, Subscribe 전용 렌딩페이지 제작`
+        4th : `댓글 기능, 댓글 좋아요, 싫어요 기능, 댓글 수정 기능`
+    }
+}
+```
+<div>
+<img src="https://user-images.githubusercontent.com/45280952/106086984-74db0000-6166-11eb-9e47-a476d33893be.png" width ="300px" align="left">
+<img src="https://user-images.githubusercontent.com/45280952/105975244-15cbab80-60d2-11eb-8599-569ed8733e37.png" width ="300px" align="left">
+</div>
