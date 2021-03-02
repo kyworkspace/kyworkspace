@@ -74,7 +74,7 @@ gis_debris : {
 }
 ```
 #### Images
-<img src = 'https://user-images.githubusercontent.com/45280952/108811974-927a7880-75f1-11eb-8bf1-96901396b2e7.png' width="600px" align="left">
+<img src = 'https://user-images.githubusercontent.com/45280952/108811974-927a7880-75f1-11eb-8bf1-96901396b2e7.png' width="600px" >
 <br/>
 
 <img src = 'https://user-images.githubusercontent.com/45280952/108010784-07294200-7049-11eb-84c7-540e2c115238.png' width="200px" align="left">
