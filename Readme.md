@@ -1,14 +1,17 @@
 # Hello World!
 ## 웹 개발자 박기영 입니다.
+- Better_than_Yesterday
 ### SKILLS
-```
+```javascript
 WEB : {
     Language : {
         FE :{
             JavaScript:[
+                JQuery,
                 ReactJS,
                 React-redux,
                 OpenlayerJs,
+                ...
             ],
             css:[
                 Ant Design,
@@ -32,8 +35,32 @@ WEB : {
     ],
     IDE : [
         Eclipse,
-        VsCode
+        VsCode - I Like it!
     ]
     
 }
 ```
+### Project
+1. 해양 GIS 모니터링 웹 프로그램(gis-debris)
+    - git : https://github.com/kyworkspace/gis_debris
+```javascript
+gis_debris : {
+    기간 : [
+            리액트 전환 전(2020.10~12),
+            리액트 전환 후(2021.02.08~),
+        ]
+    참여인원 : 2,
+    업무비율 : 95%,
+    Description : {
+        1st : '기존 SpringFrameWork를 통해 개발되던 GIS를 SPA의 성격에 맞게 ReactJS 로 개발환경을 전환하여 리팩토링',
+        2nd : `Funtional Component를 사용하여 개발`,
+        3rd : `react-redux를 사용하여 사용자 사용 이력을 Store에 저장하여 다시 보기시 즉각적으로 불러 올 수 있도록 노력중`,
+        4th : `CSS FrameWork를 사용하여 개발속도 향상...을 하려고 했으나, 의외로 눈에 띄는게 딱 없어서 이것저것 테스트해보고 없으면 직접 만듬`,
+        5th : `Openlayers 활용`
+    }
+}
+```
+#### Images
+<img src = 'https://user-images.githubusercontent.com/45280952/108010784-07294200-7049-11eb-84c7-540e2c115238.png' width="200px">
+<img src = 'https://user-images.githubusercontent.com/45280952/108811974-927a7880-75f1-11eb-8bf1-96901396b2e7.png' width="200px">
+<img src = 'https://user-images.githubusercontent.com/45280952/108799564-f4c48080-75d3-11eb-8d7b-1a61075c1a53.png' width="200px">
