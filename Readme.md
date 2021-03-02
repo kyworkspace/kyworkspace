@@ -76,11 +76,10 @@ gis_debris : {
 #### Images
 <img src = 'https://user-images.githubusercontent.com/45280952/108811974-927a7880-75f1-11eb-8bf1-96901396b2e7.png' width="600px" >
 <br/>
-
-<img src = 'https://user-images.githubusercontent.com/45280952/108010784-07294200-7049-11eb-84c7-540e2c115238.png' width="200px" align="left">
+<img src = 'https://user-images.githubusercontent.com/45280952/108010784-07294200-7049-11eb-84c7-540e2c115238.png' width="200px" >
 <img src = 'https://user-images.githubusercontent.com/45280952/108799564-f4c48080-75d3-11eb-8d7b-1a61075c1a53.png' width="200px" align="left">
 
-<br/>
+<hr/>
 
 ### Personal Project
 ### 여행 상품 쇼핑몰 클론
