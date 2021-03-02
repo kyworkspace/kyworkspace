@@ -83,7 +83,7 @@ gis_debris : {
 
 <hr/>
 
-### Personal Project
+### Personal Project #1
 ### 여행 상품 쇼핑몰 클론
 Git : https://github.com/kyworkspace/shopping-clone
 ```javascript
@@ -110,14 +110,15 @@ gis_debris : {
 }
 ```
 #### Images
-<div width="100%">
+<div>
 <img src = 'https://user-images.githubusercontent.com/45280952/107639568-62a7a880-6cb4-11eb-9e8a-280a7b61c7f8.png' width = "250px" align="left">
 <img src = 'https://user-images.githubusercontent.com/45280952/107639700-94b90a80-6cb4-11eb-9c1b-014819ff858c.png' width = "250px" align="left">
 <img src = 'https://user-images.githubusercontent.com/45280952/107639817-c0d48b80-6cb4-11eb-83e6-23ddfd1dbdda.png' width = "250px" align="left">
 </div>
-
+<br/>
 <hr/>
 
+### Personal Project #2
 ### 유튜브 클론
 Git : https://github.com/kyworkspace/youtube-clone-react
 ```javascript
