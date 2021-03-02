@@ -42,7 +42,7 @@ WEB : {
 ```
 ### Project
 ### 해양 GIS 모니터링 웹 프로그램(gis-debris)
-`Git : https://github.com/kyworkspace/gis_debris`
+Git : https://github.com/kyworkspace/gis_debris
 ```javascript
 gis_debris : {
     개발환경 :{
@@ -76,12 +76,15 @@ gis_debris : {
 #### Images
 <img src = 'https://user-images.githubusercontent.com/45280952/108811974-927a7880-75f1-11eb-8bf1-96901396b2e7.png' width="600px" align="left">
 <br/>
+
 <img src = 'https://user-images.githubusercontent.com/45280952/108010784-07294200-7049-11eb-84c7-540e2c115238.png' width="200px" align="left">
 <img src = 'https://user-images.githubusercontent.com/45280952/108799564-f4c48080-75d3-11eb-8d7b-1a61075c1a53.png' width="200px" align="left">
 
+<br/>
+
 ### Personal Project
 ### 여행 상품 쇼핑몰 클론
-`Git : https://github.com/kyworkspace/shopping-clone`
+Git : https://github.com/kyworkspace/shopping-clone
 ```javascript
 gis_debris : {
     개발환경 : {
